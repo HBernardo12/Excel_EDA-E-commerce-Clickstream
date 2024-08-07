@@ -1,7 +1,5 @@
 # EDA-E-commerce-Clickstream
 
-# Projeto de Análise de Dados de Interações em Plataforma de Comércio Eletrônico
-
 ## Resumo
 
 Neste projeto, analisei uma base de dados  de uma captura interações de usuários em uma plataforma de comércio eletrônico. O conjunto de dados inclui uma variedade de eventos como visualizações de páginas, cliques, visualizações de produtos e compras. Cada registro está associado a uma sessão de usuário.
