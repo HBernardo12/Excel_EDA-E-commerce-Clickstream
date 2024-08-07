@@ -11,6 +11,8 @@ Iniciei com uma análise univariada de cada coluna, onde explorei as distribuiç
 
 Os insights obtidos podem ser utilizados para melhorar estratégias de marketing e otimizar a experiência do usuário na plataforma, visando aumentar as taxas de conversão, retenção de clientes e faturamento.
 
+**Acesse a EDA completa, a planilha utilizada e a base de dados nos arquivos deste repositório**
+
 ## Desenvolvimento
 
 ### Dataset
