@@ -1,5 +1,7 @@
 # EDA-E-commerce-Clickstream
 
+![image](https://github.com/user-attachments/assets/38c8fe6d-c1ca-4ffd-88d4-644a28502d7f)
+
 ## Resumo
 
 Neste projeto, analisei uma base de dados  de uma captura interações de usuários em uma plataforma de comércio eletrônico. O conjunto de dados inclui uma variedade de eventos como visualizações de páginas, cliques, visualizações de produtos e compras. Cada registro está associado a uma sessão de usuário.
